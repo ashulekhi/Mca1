@@ -1,0 +1,24 @@
+{
+  "name": "mca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashulekhi/Mca1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashulekhi/Mca1/issues"
+  },
+  "homepage": "https://github.com/ashulekhi/Mca1#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-local-auth": "0.0.7",
+    "winston": "^2.3.1"
+  }
+}

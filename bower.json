@@ -1,0 +1,17 @@
+{
+  "name": "Mca1",
+  "homepage": "https://github.com/ashulekhi/Mca1",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "ui-router#^0.4.2"
+  }
+}
